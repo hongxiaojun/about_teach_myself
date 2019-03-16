@@ -1,0 +1,2 @@
+# about_teach_myself
+用于自学编程及阅读《自学是门手艺》ucanuupnobb自学社群homework
